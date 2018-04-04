@@ -1,2 +1,2 @@
 # KeepSystemAlive
-Keeps the system alive by automatically moving the cursor
+This Java GUI tool keeps the system alive by automatically moving the cursor.
